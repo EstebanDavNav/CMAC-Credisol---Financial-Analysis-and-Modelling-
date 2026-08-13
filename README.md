@@ -1,6 +1,6 @@
 # CMAC CrediSol - Análisis de Créditos, Depósitos y Simulación Financiera en Excel/VBA
 
-Me encargo de la construcción y análisis de los KPIs financieros de una caja municipal ficticia con la razón social "CMAC CrediSol", además del diseño de herramientas de simulación financiera (Buscar Objetivo, Análisis de Hipótesis, Administrador de Escenarios). Este es mi segundo proyecto de portafolio para mis prácticas pre-profesionales en Análisis de Datos.
+Me encargo de la construcción y análisis de los KPIs financieros de una caja municipal ficticia con la razón social "CMAC CrediSol S.A.", además del diseño de herramientas de simulación financiera (Buscar Objetivo, Análisis de Hipótesis, Administrador de Escenarios). Este es mi segundo proyecto de portafolio para mis prácticas pre-profesionales en Análisis de Datos.
 
 ## Objetivo
 
